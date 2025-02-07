@@ -1,3 +1,3 @@
-# AGNTCY Goverance
+# AGNTCY Governance
 
-- [Operationg Model](OPERATING_MODEL.md)
+- [Operation Model](OPERATING_MODEL.md)
