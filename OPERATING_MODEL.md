@@ -183,7 +183,7 @@ The AGNTCY by definition is a community-oriented organization. To achieve our mi
 
 ### 7.2 Reporting & Enforcement
 
-- **Incident Reporting**: Private email alias (e.g., conduct@agency.ai) for confidentially reporting issues.
+- **Incident Reporting**: Private email alias (e.g., conduct@agntcy.org) for confidentially reporting issues.
 - **Investigation**: A designated member or group of the Steering Committee will review reports promptly, ensuring fairness and discretion.
 - **Consequences**: Range from warnings to temporary or permanent bans based on severity.
 
