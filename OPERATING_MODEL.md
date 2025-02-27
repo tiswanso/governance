@@ -9,16 +9,16 @@
 
 ### 1.2 Mission & Vision
 
-- **Mission**: Provide a collaborative environment where contributors of all backgrounds can innovate, develop, and maintain software components that solve key problems in the domain of agentic workflows and multi agent application creation: agent identity, agent announcement, agent discovery and search, agent connectivity, agent to agent collaboration, agentic ensembles deployment, supervision, observability, security and more. Simply put, we intend to build the Internet of Agents, *together*. 
+- **Mission**: Provide a collaborative environment where contributors of all backgrounds can innovate, develop, and maintain software components that solve key problems in the domain of agentic workflows and multi agent application creation: agent identity, agent announcement, agent discovery and search, agent connectivity, agent to agent collaboration, agentic ensembles deployment, supervision, observability, security and more. Simply put, we intend to build the Internet of Agents, *together*.
 
 ![Internet of Agents simplified architecture](images/agncy_ioa_simplified_architecture.svg)
 
 *Figure 1: The Internet of Agents simplified architecture*
 
-- **Vision**: We envision a future where Agentic AI systems transform industries by enabling the developer community, partners, and enterprises to build intelligent, autonomous AI applications.
+- **Vision**: We envision a future where Agentic AI systems transform industries by enabling the developer community, partners, and enterprises to build intelligent, autonomous AI applications. This new AI-native world needs a communication layer—the Internet of Agents—to enable collaboration across the ecosystem of agentic applications of various kinds, from different vendors, across different industries.
 
-- Enterprises will need to create agentic workflows and applications combining internal and third-party agents to fully leverage the power of AI and accelerate their business and unlock new step-change in productivity.
-- An open, neutral and interoperable Internet of Agents drives maximum value for all players: infrastructure and tool builders, operators, app developers, and consumers. It avoids vendor lock-in.
+    - Agentic software will accelerate all of human work – cognitive, services, and physical. Enterprises will need to create deterministic workflows or planner-based jobs and applications, combining internal and third-party agents, to fully leverage the power of AI to accelerate their business and unlock new step-change in productivity.
+    - An open, neutral and interoperable Internet of Agents drives maximum value for all players: infrastructure and tool builders, operators, app developers, and consumers. It avoids vendor lock-in.
 
 ## 2. Charter
 
@@ -38,20 +38,25 @@ The AGNTCY intends to serve the IoA ecosystem in the foundation-like role of ope
 - We guide projects to build trust with adopters and users, balancing quality and sustainability with velocity.
 - Our technical work must be available to all according to these guiding principles. Our community, processes, and decisions are transparent, visible, and discoverable.
 
-#### 2. Platform Agnostic
+#### 2. Open & Extensible
+
+- We are open to and inclusive of all adopters and collaborators to build a collective of different perspectives that can help create a powerful global standard.
+- We invite proactive contributions from our community of developers to extend or adopt AGNTCY for all agentic applications beyond its existing capabilities.
+
+#### 3. Platform Agnostic
 
 - We have an explicit bias toward projects and specifications developed to be platform agnostic such that they can be implemented on a variety of platforms, architectures, clouds, and operating systems.
 
-#### 3. Modularity & Interoperability
+#### 4. Modularity & Interoperability
 
 - Encourage a modular architecture to facilitate incremental improvements and smooth interoperability with external tools.
 
-#### 4. Meritocracy & Inclusivity
+#### 5. Meritocracy & Inclusivity
 
 - Contributions are valued based on quality and impact, independent of personal background.
 - Strive to maintain an inclusive environment where diverse perspectives are respected.
 
-#### 5. Respect & Professionalism
+#### 6. Respect & Professionalism
 
 - Uphold a Code of Conduct that ensures respectful communication, constructive feedback, and zero tolerance for harassment.
 
@@ -71,7 +76,7 @@ The AGNTCY Steering Committee is responsible for the governance of projects join
     2. Guide architectural decisions and set standards.
     3. Resolve escalated technical or governance disputes.
     4. Ensure the community adheres to the Code of Conduct and licensing standards.
-    5. Approve critical changes to the Collective's recommendations for affiliate projects governance, or licensing.
+    5. Approve critical changes to the Collective’s recommendations for affiliate projects governance, or licensing.
     6. Direct marketing, including evangelism, events and ecosystem engagement
 
 ### 3.3 Contributors
@@ -155,7 +160,7 @@ The core communication will be through the AGNTCY's Slack instance which will be
 
 ### 6.2 Documentation & Website
 
-The AGNTCY's main web home will be a Git repo that all members have access to. The vanity URL and domain of "TheAGNTCY.ai" will route to the root readme. Some items to be included there:
+The AGNTCY’s main web home will be a Git repo that all members have access to. The vanity URL and domain of "AGNTCY.org" will have relevant collective information. Some items that may be included there:
 
 - **User Guide**: Detailed setup instructions, examples, and best practices.
 - **Developer Guide**: Architecture overview, how to run tests, coding conventions, how to propose changes.
