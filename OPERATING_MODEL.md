@@ -67,6 +67,8 @@ The AGNTCY intends to serve the IoA ecosystem in the foundation-like role of ope
 
 ### 3.1 Definition of Roles
 
+This section outlines the various responsibilities of roles in AGNTCY. 
+
 | **Role**           | **Responsibilities**                                                 | **Requirements**                                                                                                                  | **Defined By**                                                                                                                  |
 | ------------------ | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | Adopter            | For those using and/or evangelizing AGNTCY in their organization     | Your company name in the AGNTCY adopter list on GitHub. The Collective gains momentum and credibility with your company’s support | Companies that support AGNTCY through use of affiliated projects and shared belief in an open, interoperable internet of agents |
