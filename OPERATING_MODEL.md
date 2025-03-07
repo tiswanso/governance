@@ -63,7 +63,7 @@ The AGNTCY intends to serve the IoA ecosystem in the foundation-like role of ope
 
 ---
 
-## 3. Membership and Governance
+## 3. Roles and Governance
 
 ### 3.1 Definition of Roles
 
