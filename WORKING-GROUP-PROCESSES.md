@@ -55,11 +55,11 @@ group. To do so, you need to:
   [below](#leads) for information on the responsibilities of leads and
   requirements for nominating them.
 
-- **Prepare a Roadmap**. Create a preliminary ~3 month roadmap for what the
+- **Prepare a Roadmap**. Create a preliminary roadmap (ideally, ~3 months worth) for what the
   working group would focus on.
 
-- **Send an Email**. Write up an email with your charter, nominated leads, and
-  roadmap, and send it to ***TODO**. The
+- **Create a PR**. Create a PR for this repo with a new sub-directory under `working-groups` and add a 
+  `CHARTER.md` file with your charter, nominated leads, and roadmap. The
   steering committee will evaluate the request and decide whether the
   working group should be formed, whether it should be merely a subgroup of an
   existing working group, or whether it should be subsumed by an existing
@@ -138,9 +138,9 @@ few activities:
   GitHub issues, Google Docs, or markdown files in the repo.
 
 - **Roadmap**. Establish **and maintain** a roadmap for the working group
-  outlining the areas of focus for the working group over the next 3 months.
+  outlining the areas of focus for the working group, ideally, over the next 3 months.
 
-- **Report**. Report current status to the main community meeting every 6 weeks.
+- **Report**. Report current status to main community meetings or maintainers' meetings.
 
 ### Be open
 

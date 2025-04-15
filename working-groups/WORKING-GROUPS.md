@@ -10,16 +10,6 @@ The current working groups are:
 
 | Group            | Design Docs | Slack Channel | Description                                                              
 |------------------|-------------|---------------|--------------------------------------------------------------------------
-| [Test and Release](#test-and-release) | <TBD>       | <TBD>         | Logistics and details around build, test, release across AGNTCY projects
-| [Docs](#docs)       |             |               | User docs, information architecture, agntcy.io infrastructure
-|                  |             |               |  
+| <TBD> | <TBD>       | <TBD>         | <TBD>
 
-
-## Test and Release
-
-
-
-## Docs
-
-[Charter](docs/CHARTER.md)
 

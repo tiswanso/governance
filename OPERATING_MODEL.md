@@ -109,10 +109,20 @@ The AGNTCY Steering Committee is responsible for the governance of projects join
 - **Responsibilities**:
     1. Oversee strategic and long-term Collective goals.
     2. Guide architectural decisions and set standards.
-    3. Resolve escalated technical or governance disputes.
-    4. Ensure the community adheres to the Code of Conduct and licensing standards.
-    5. Approve critical changes to the Collective's recommendations for affiliate project's governance, or licensing.
-    6. Direct marketing, including evangelism, events and ecosystem engagement
+    3. Delegate specific scopes of authority to working groups per the [working-group processes](WORKING-GROUP-PROCESSES.md).
+    4. Resolve escalated technical or governance disputes.
+    5. Ensure the community adheres to the Code of Conduct and licensing standards.
+    6. Approve critical changes to the Collective's recommendations for affiliate project's governance, or licensing.
+    7. Direct marketing, including evangelism, events and ecosystem engagement
+
+
+### 3.6 **Working Groups**
+
+The AGNTCY Steering Committee is responsible for approving the creation of working groups to handle specific scopes of
+authority.  The processes that govern working group formation, operation, and dissolution are defined per the
+[working-group processes](WORKING-GROUP-PROCESSES.md).  Contributions made under the direction and authority of working-groups
+are expected to conform to the same processes defined in the AGNTCY operating model as defined in this document, unless
+deviation is specifically defined in the working-group's approved charter.
 
 ---
 
