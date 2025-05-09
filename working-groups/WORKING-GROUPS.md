@@ -11,6 +11,7 @@ The current working groups are:
 | Group            | Design Docs | Slack Channel | Description                                                              
 |------------------|-------------|---------------|--------------------------------------------------------------------------
 | [Core] | <TBD>       | <TBD>         | AGNTCY core working group
+| [Observe and Eval]| <TBD>       | <TBD>         | AGNTCY observe and eval working group
 
 ## Core
 
@@ -36,3 +37,16 @@ The current working groups are:
 | | Mauro Sardara       | Cisco Systems | https://github.com/msardara |
 | | Ramiz Polic         | Cisco Systems | https://github.com/ramizpolic |
 
+## Observe and Eval
+
+- [Charter](observe-and-eval/CHARTER.md)
+- Roadmap: **TBD**
+- Meetings: **TBD**
+- Repos:
+  - **To be announced**
+- Discussion Channel: **TBD**
+
+| &nbsp;                                                   | Leads            | Company | Profile                                 |
+| -------------------------------------------------------- | ---------------- | ------- | --------------------------------------- |
+| | Giovanna Carofiglio    | Cisco Systems | https://github.com/gcarofig |
+| | Jacques Samain | Cisco Systems | https://github.com/Castorche |
