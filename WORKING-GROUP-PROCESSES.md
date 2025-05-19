@@ -63,7 +63,10 @@ group. To do so, you need to:
   steering committee will evaluate the request and decide whether the
   working group should be formed, whether it should be merely a subgroup of an
   existing working group, or whether it should be subsumed by an existing
-  working group.
+  working group. The PR should include the initial set of leads in a new section
+  in [WORKING-GROUPS.md](working-groups/WORKING-GROUPS.md).
+  
+  - [example PR](https://github.com/agntcy/governance/pull/11)
 
 ## Setting up a working group
 
@@ -73,7 +76,7 @@ working group._
 
 - **Create a Google Drive Folder**. Create a folder to hold your working group
   documents within this parent
-  [folder](TBD).
+  [folder](https://drive.google.com/drive/folders/1l5v-aEArWGUL2_f79bx3ysizsRH2Z8PM?usp=sharing).
   Call your folder "GROUP_NAME".
 
 - **Create a Meeting Notes Document**. Create a blank document in the above
@@ -83,7 +86,7 @@ working group._
 
 - **Schedule a Recurring Meeting**. Create a recurring meeting (weekly or
   bi-weekly, 30 or 60 minutes) on the
-  ***TODO**  [shared calendar](TBD)
+  [shared calendar](https://calendar.google.com/calendar/embed?src=c_247fbd7eabd1c52e189c195f72e6a228e5d4fb5cd921e0bf95a1a1f6f55b4343%40group.calendar.google.com&ctz=America%2FBoise)
   and call the meeting "\$GROUP_NAME WG". Attach the meeting notes document to
   the calendar event. Generally schedule these meetings between 9:00AM to 2:59PM
   Pacific Time. Invite `<TBD>` Google group to the
@@ -94,8 +97,8 @@ working group._
   group name, the names of the leads, the working group charter, and a link to
   the meeting you created.
 
-- **Announce your Working Group**. Send a note to **TBD** to
-  announce your new working group. Include your charter in the email and provide
+- **Announce your Working Group**. Send a message to [#agntcy-general on slack](https://agntcy.slack.com/archives/C0893S6D284)
+  announcing your new working group. Include your charter in the message and provide
   links to the meeting invitation.
 
 Congratulations, you now have a fully formed working group!
@@ -104,8 +107,7 @@ Congratulations, you now have a fully formed working group!
 
 Some working groups are ephemeral or naturally reach the end of their useful
 life. Working group leads can petition to dissolve their working groups by
-emailing **TODO**
-[TBD](tbd).
+emailing admin@agntcy.org.
 The steering committee takes ownership of any artifacts created or
 owned by the dissolved working group. The steering committee also
 reserves the right to dissolve or recharter working groups over time as
@@ -172,9 +174,9 @@ Sometimes, different working groups can have conflicting goals or requirements.
 Leads from all affected working groups generally work together and come to an
 agreeable conclusion.
 
-In all cases, remaining blocking issues can be raised to the **TODO**
+In all cases, remaining blocking issues can be raised to the 
 [steering committee](TBD) to help resolve
 the situation. To trigger an escalation, create an issue in the **TODO**
-steering committee's agenda and be prepared to attend a meeting to provide
+steering committee's agenda (or email admin@agntcy.org) and be prepared to attend a meeting to provide
 an explanation of the underlying problem as well as cogent arguments for both
 sides.
