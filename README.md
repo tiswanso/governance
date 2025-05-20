@@ -10,7 +10,7 @@ including but not limited to [working-group](working-groups/WORKING-GROUPS.md)
 leaders.
 
 Please use [agntcy discussions](https://github.com/orgs/agntcy/discussions) or
-[agntcy slack #git-operations](https://agntcy.slack.com/archives/C08S2BSEF8R** to follow
+[agntcy slack #git-operations](https://agntcy.slack.com/archives/C08S2BSEF8R) to follow
 communication and participate in discussions for topics related to github
 operations, e.g. administering users, teams, repos, actions/envs, packages, etc.
 

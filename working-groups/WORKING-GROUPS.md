@@ -10,8 +10,8 @@ The current working groups are:
 
 | Group            | Design Docs | Slack Channel | Description                                                              
 |------------------|-------------|---------------|--------------------------------------------------------------------------
-| [Core] | <TBD>       | [#wg-core](https://agntcy.slack.com/archives/C08R1LZEP0V) | AGNTCY core working group
-| [Observe and Eval]| <TBD>       | [#wg-observ-and-eval](https://agntcy.slack.com/archives/C08RMAML6JH) | AGNTCY observe and eval working group
+| [Core](#core) | [CoreWG drive](https://drive.google.com/drive/folders/1AbFEfM8HZF0_5LbgLXXxiHqFUIsiSjPa?usp=sharing) | [#wg-core](https://agntcy.slack.com/archives/C08R1LZEP0V) | AGNTCY core working group
+| [Observe and Eval](#observe-and-eval)| [drive](https://drive.google.com/drive/folders/1TO_r4xuElzaqZKiQ8g8iSRicCC-s-FVw?usp=sharing)        | [#wg-observ-and-eval](https://agntcy.slack.com/archives/C08RMAML6JH) | AGNTCY observe and eval working group
 
 ## Core
 
