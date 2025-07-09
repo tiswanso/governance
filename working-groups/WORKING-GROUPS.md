@@ -20,7 +20,7 @@ The current working groups are:
 - Roadmap: **TBD**
 - Meetings: [See AGNTCY Calendar](https://calendar.google.com/calendar/embed?src=admin%40ops.agntcy.org&ctz=America%2FNew_York)
 - Repos:
-  - [AGP](https://github.com/agntcy/agp)
+  - [SLIM](https://github.com/agntcy/slim)
   - [Agent Directory](https://github.com/agntcy/dir)
   - [CSIT](https://github.com/agntcy/csit)
   - [OASF](https://github.com/agntcy/oasf)
